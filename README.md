@@ -1,5 +1,3 @@
-# MLLM_GeoAI_Redlining
-
 ## MLLMs, Street View and Urban Policy-Intelligence: Recovering the Sustainability Effects of Redlining
 
 This repository contains the replication code and data for the paper:
