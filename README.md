@@ -1,4 +1,3 @@
-# MLLM_GEOAI_Redlining
 # MLLM_GeoAI_Redlining
 
 ## MLLMs, Street View and Urban Policy-Intelligence: Recovering the Sustainability Effects of Redlining
